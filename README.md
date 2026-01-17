@@ -1,3 +1,4 @@
+👋 Hi, I'm Emad!
 Neural Network Researcher | Deep Learning Enthusiast
 
 I am passionate about the architecture of neural networks and their power to solve complex, real-world problems. My current focus is on mastering advanced deep learning methodologies and optimizing model performance.
